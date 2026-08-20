@@ -10,7 +10,7 @@ This module adds an alternative Global Perk Web presentation inspired by the lar
 
 Paste this manifest URL into Foundry's **Install Module** dialog:
 
-`https://raw.githubusercontent.com/Umbura/ptr2e-alternative-global-perk-web/main/module.json`
+`https://raw.githubusercontent.com/iago-aragao/ptr2e-alternative-global-perk-web/main/module.json`
 
 ## Features
 
